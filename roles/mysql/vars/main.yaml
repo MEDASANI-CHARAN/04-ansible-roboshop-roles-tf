@@ -1,0 +1,3 @@
+MYSQL_ROOT_PASSWORD: RoboShop@1
+MYSQL_ROOT_USER: root
+MYSQL_HOST: mysql.daws2025.online
